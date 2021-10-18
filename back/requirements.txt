@@ -1,0 +1,6 @@
+tensorflow-cpu==2.1
+easydict
+pyyaml
+opencv-python==4.5.3.56
+h5py==2.10.0
+numpy==1.18.0
